@@ -1,6 +1,6 @@
 #### Welcome to my Github profile!
 
-[![Codwears badge](https://www.codewars.com/users/antonyakobi/badges/micro)](https://www.codewars.com/users/antonyakobi)
+[![Codwears badge](https://www.codewars.com/users/antonyakobi/badges/micro?theme=light)](https://www.codewars.com/users/antonyakobi)
 <!--
 **antonyakobi/antonyakobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
